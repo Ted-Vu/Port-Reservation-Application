@@ -30,4 +30,7 @@ This program is written for Network Administrator, the functional requirements c
 
 3. Refactoring code
 
+# Project maintainer information
+Any query please reach out to tedvu184@gmail.com 
+
 
